@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="hero-hex" width="520" height="520" viewBox="0 0 52 52" fill="none" role="img" aria-label="Gate City Digital hero logo">
+    <path d="M26 4 L46 15.5 L46 38.5 L26 50 L6 38.5 L6 15.5 Z" stroke="#C4A97D" stroke-width="0.5" fill="none"/>
+    <path d="M14 22 Q20 18 26 22 Q32 26 38 22" stroke="#C1440E" stroke-width="0.8" fill="none" stroke-linecap="round"/>
+    <path d="M14 29 Q20 25 26 29 Q32 33 38 29" stroke="#C1440E" stroke-width="0.8" fill="none" stroke-linecap="round"/>
+    <path d="M18 36 Q24 32 30 36" stroke="#C1440E" stroke-width="0.8" fill="none" stroke-linecap="round"/>
+    <circle cx="26" cy="15" r="1.2" fill="#7A8C6E"/>
+</svg>
