@@ -1,2 +1,5 @@
 User-agent: *
+Allow: /
 Disallow: /demos/
+
+Sitemap: https://www.gatecitydigital.com/sitemap.xml
